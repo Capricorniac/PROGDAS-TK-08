@@ -8,7 +8,7 @@ Proyek ini adalah C project Calculator, yang menggabungkan 4 fungsi dasar, yaitu
 
 Addition - Beni
 
-Subtraction - 
+Subtraction - Arafah
 
 Multiplication - 
 
